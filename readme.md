@@ -21,3 +21,11 @@
 ### User Stories
 
 ![](cash6.jpg)
+
+### ERD
+
+![](cash7.jpg)
+
+### Routes
+
+![](cash8.jpg)
