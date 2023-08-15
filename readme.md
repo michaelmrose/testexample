@@ -8,7 +8,7 @@
 
 ### Before Login
 
-![](cash5.jpg)
+![](cash1.jpg)
 
 ### Logged in
 
